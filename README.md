@@ -1,6 +1,7 @@
 # Hi there 👋
 
 - [LinkedIn](www.linkedin.com/in/youssef-khalfaoui-1ab40a325)
+- Email: [Email](youssefkhalfaoui30@gmail.com)
 <!--
 **Youssef-Khalfaoui/Youssef-Khalfaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
