@@ -14,8 +14,8 @@
 
 ###
 
--[LinkedIn](www.linkedin.com/in/youssef-khalfaoui-1ab40a325)
--Email: [youssefkhalfaoui30@gmail.com]
+<p align="left">-[LinkedIn](www.linkedin.com/in/youssef-khalfaoui-1ab40a325)</p>
+<p align="left">-Email: [youssefkhalfaoui30@gmail.com]</p>
 
 ###
 
