@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/youssef-khalfaoui-1ab40a325/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:youssefkhalfaoui30@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
@@ -18,9 +18,7 @@
 
 I am a **Frontend Developer** and **Big Data Student** from Tunisia 🇹🇳, passionate about building scalable, data-driven web applications.
 
-* 🔭 I’m currently working on **CRYPTONEX**, a crypto currency dashboard.
 * 🌱 I’m currently deep-diving into **React.js ecosystem** and **Data Analytics**.
-* 🤝 I’m a member of the **IMC (ISAMM Microsoft Club)**.
 * ⚡ **Fun fact:** I bridge the gap between complex backend data and beautiful frontend design.
 
 ---
