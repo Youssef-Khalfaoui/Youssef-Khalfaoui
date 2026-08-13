@@ -49,9 +49,9 @@ Movie-discovery application with search, categories, authentication, and TMDB AP
 [View project →](https://github.com/Youssef-Khalfaoui/MovieApp)
 
 </td>
-<td width="32%" valign="top">
+<td width="32%" valign="top" align="center">
 
-<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663141906946/UImVOPJuiBAekFYb.png" alt="Vertical Zoro-inspired samurai artwork" width="100%" />
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663141906946/FwpssDcuyKBmhkbQ.png" alt="Vertical Zoro-inspired samurai artwork" width="100%" height="600" />
 
 </td>
 </tr>
@@ -65,8 +65,8 @@ Movie-discovery application with search, categories, authentication, and TMDB AP
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Youssef-Khalfaoui&show_icons=true&hide_border=true&bg_color=0d1117&title_color=34d399&icon_color=22c55e&text_color=d1fae5" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Khalfaoui&layout=compact&hide_border=true&bg_color=0d1117&title_color=34d399&text_color=d1fae5" alt="Top languages" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Youssef-Khalfaoui&show_icons=true&hide_border=true&bg_color=0d1117&title_color=34d399&icon_color=22c55e&text_color=d1fae5" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Youssef-Khalfaoui&layout=compact&hide_border=true&bg_color=0d1117&title_color=34d399&text_color=d1fae5" alt="Top languages" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Khalfaoui&bg_color=0d1117&color=d1fae5&line=34d399&point=facc15&area=true&hide_border=true" alt="GitHub activity graph" width="95%" />
 
