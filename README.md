@@ -1,125 +1,81 @@
 <div align="center">
 
-# Hi, I'm Youssef Khalfaoui
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663141906946/rYaiaTMISCwusoIx.png" alt="Zoro-inspired banner" width="100%" />
 
-### Frontend Developer · Big Data Student · Applied AI Builder
+# Youssef Khalfaoui
 
-I build **data-driven web applications** and AI-enabled products with React, JavaScript, and modern backend systems. I enjoy turning complex data and technical workflows into clear, reliable user experiences.
+### ⚔️ Frontend Developer · Big Data Student · Applied AI Builder
 
-<p>
-  <a href="https://myportfolioi.netlify.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/youssef-khalfaoui-1ab40a325/">LinkedIn</a> ·
-  <a href="mailto:youssefkhalfaoui30@gmail.com">Email</a>
-</p>
+[Portfolio](https://myportfolioi.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/youssef-khalfaoui-1ab40a325/) · [Email](mailto:youssefkhalfaoui30@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+## 🟢 About Me
 
-I am a **Frontend Developer and Big Data student** from Tunisia, focused on building responsive, data-driven applications with the React ecosystem. My work combines frontend product development, API integration, applied artificial intelligence, and practical systems engineering.
+Frontend Developer and Big Data student from Tunisia. I build responsive React applications, API-driven products, and applied-AI systems. Recently completed an IT infrastructure internship at **SAGEMCOM** and built **MedVision**, my flagship multi-agent medical-AI project.
 
-I am especially interested in opportunities involving **frontend development, full-stack software engineering, applied AI, and data-focused products**.
+> **Three swords. One stack. Zero shortcuts.**
 
-## Professional Experience
+## 🗡️ Latest Projects
 
-### IT Infrastructure Intern — SAGEMCOM
+<table>
+<tr>
+<td width="68%" valign="top">
 
-**Tunis, Tunisia · July 2025 – August 2025**
+### MedVision
 
-- Worked on a Virtual Desktop Infrastructure project using **Proxmox VE** and **Ubuntu LTS**.
-- Deployed and managed server-hosted virtual machines while applying virtualization and systems-administration principles.
-- Investigated secure remote-access configuration and networking requirements for the VDI environment.
-- Developed practical experience in infrastructure, virtualization, Linux, and network security.
+Multi-agent chest X-ray decision-support prototype with classification, report generation, explainability, validation, and a containerized full-stack workflow.
 
-## Featured Projects
+`React` `FastAPI` `PyTorch` `Qwen2-VL` `Docker`
 
-### MedVision — Multi-Agent Chest X-Ray Decision-Support Prototype
+[View project →](https://github.com/Youssef-Khalfaoui/MedVision)
 
-[Repository](https://github.com/Youssef-Khalfaoui/MedVision)
+### CryptoNex
 
-A containerized full-stack AI system for experimental chest X-ray analysis and medical-report generation. The system combines an out-of-distribution guard, multi-label pathology classification, longitudinal history comparison, grounded vision-language report generation, explainability, and report-consistency validation.
+Live cryptocurrency dashboard with charts, conversion, filtering, and API-driven market data.
 
-**Technologies:** React, FastAPI, Python, PyTorch, ConvNeXtV2, Hierarchical GAT, Qwen2-VL, QLoRA, Grad-CAM, PostgreSQL, Redis, WebSockets, Docker
+`React` `Redux` `Chart.js`
 
-> MedVision is an experimental clinical decision-support prototype and is not intended to replace qualified medical professionals or serve as an autonomous diagnostic device.
+[View project →](https://github.com/Youssef-Khalfaoui/Cryptonex)
 
-### CryptoNex — Cryptocurrency Dashboard
+### MovieApp
 
-[Repository](https://github.com/Youssef-Khalfaoui/Cryptonex)
+Movie-discovery application with search, categories, authentication, and TMDB API integration.
 
-A responsive cryptocurrency dashboard focused on live market-data visualization, currency conversion, charts, filtering, and API-driven user interfaces.
+`React` `Redux` `Firebase`
 
-**Technologies:** React, JavaScript, Redux, Chart.js, Axios, Styled Components, REST APIs
+[View project →](https://github.com/Youssef-Khalfaoui/MovieApp)
 
-### Pinterest Clone — Image-Sharing Platform
+</td>
+<td width="32%" valign="top">
 
-[Repository](https://github.com/Youssef-Khalfaoui/Pintrest-Clone)
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663141906946/UImVOPJuiBAekFYb.png" alt="Vertical Zoro-inspired samurai artwork" width="100%" />
 
-A Pinterest-inspired social platform with authentication, image discovery, content management, responsive masonry layouts, and user-oriented browsing flows.
+</td>
+</tr>
+</table>
 
-**Technologies:** React, Redux Toolkit, Sanity.io, Material UI, Google OAuth, Pexels API
+## 🟩 Tech Arsenal
 
-### MovieApp — Movie Discovery Application
+`React.js` `JavaScript` `Tailwind CSS` `Redux` `Python` `FastAPI` `PostgreSQL` `MySQL` `PyTorch` `Docker` `Redis` `Linux` `Git`
 
-[Repository](https://github.com/Youssef-Khalfaoui/MovieApp)
+## 📊 GitHub Stats
 
-A React application for discovering movies and TV shows through search, browsing, category-based navigation, authentication, and API-connected state management.
+<div align="center">
 
-**Technologies:** React, Redux Toolkit, Firebase, TMDB API, React Router, Material UI
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Youssef-Khalfaoui&show_icons=true&hide_border=true&bg_color=0d1117&title_color=34d399&icon_color=22c55e&text_color=d1fae5" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Khalfaoui&layout=compact&hide_border=true&bg_color=0d1117&title_color=34d399&text_color=d1fae5" alt="Top languages" />
 
-### La Belle Assiette — Restaurant Ordering System
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Khalfaoui&bg_color=0d1117&color=d1fae5&line=34d399&point=facc15&area=true&hide_border=true" alt="GitHub activity graph" width="95%" />
 
-[Repository](https://github.com/Youssef-Khalfaoui/La-Belle-Assiette)
-
-A full-stack restaurant application with authentication, menu browsing, session-based cart management, order history, and administrative workflows.
-
-**Technologies:** PHP, MySQL, JavaScript, HTML, CSS
-
-## Technical Skills
-
-### Frontend
-
-`React.js` `JavaScript ES6+` `HTML5` `CSS3` `Tailwind CSS` `Redux Toolkit` `Material UI` `Styled Components` `Vite` `Responsive Design`
-
-### Backend and Data
-
-`Python` `FastAPI` `REST APIs` `PostgreSQL` `MySQL` `SQLAlchemy` `Big Data Analytics` `Data Visualization` `Sanity.io`
-
-### Applied AI
-
-`PyTorch` `Computer Vision` `ConvNeXtV2` `Graph Neural Networks` `Qwen2-VL` `QLoRA` `Grad-CAM` `Explainable AI`
-
-### Infrastructure and Tools
-
-`Docker` `Redis` `WebSockets` `Linux` `Proxmox VE` `Git` `GitHub` `Azure` `DigitalOcean` `Postman` `VS Code`
-
-## Education
-
-**Licence in Computer Science — Big Data**  
-Higher Institute of Multimedia Arts of Manouba (ISAMM), Tunisia  
-**September 2024 – Present**
-
-**Baccalaureate in Computer Science**  
-Ibn Khaldoun High School, Tunisia · **Mention Très Bien**  
-**June 2024**
-
-## Current Focus
-
-- Building reliable React and full-stack applications.
-- Exploring data analytics, computer vision, and applied AI.
-- Improving software quality through testing, documentation, security, and reproducible deployment.
-- Looking for opportunities to contribute to frontend, full-stack, AI, or data-focused software projects.
-
-## Languages
-
-Arabic — Native · French — B2 · English — B2
+</div>
 
 ---
 
 <div align="center">
 
-If you are interested in building data-driven products or applied AI systems, feel free to connect.
+**No map. No shortcuts. Just clean code and continuous improvement.**
 
 </div>
